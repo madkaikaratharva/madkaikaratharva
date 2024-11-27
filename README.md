@@ -7,11 +7,11 @@
 🌱 Currently working on developing LLM based agents to analyze granular data and generate actionale insights to optimize resource management. <br>
 
 ### 🌱 Education:
-🔹 **MS in Robotics Engineering** from [**National University of Singapore**](https://www.nus.edu.sg/) (January 2023 - June 2024)
+🔹 **MS in Robotics Engineering** from [**National University of Singapore**](https://www.nus.edu.sg/) (January 2023 - June 2024) <br>
 🔹 **B. Tech in Mechanical Engineering** from [**Vishwakarma Institute of Technology, Pune**](https://www.vit.edu/) (August 2016 - October 2020)   
 
 ### 📫 Connect with me:
-🔹[LinkedIN](https://www.linkedin.com/in/atharva-madkaikar-91158b162/)
+🔹[LinkedIN](https://www.linkedin.com/in/atharva-madkaikar-91158b162/) <br>
 🔹atharva.madkaikar22@gmail.com, e1101675@u.nus.edu
 
 
